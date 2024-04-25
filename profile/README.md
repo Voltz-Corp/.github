@@ -41,10 +41,10 @@ A Eceel-Tec é uma empresa familiar fundada em 2003 pelo casal Elisabete Seolin 
   <br>
   <br>
   <a href="https://sites.google.com/cesar.school/grupovoltz/">
-    <img src="https://img.shields.io/badge/google site-FDDD14?style=for-the-badge&logo=google&logoColor=white" width=200px/>
+    <img src="https://img.shields.io/badge/google site-F46036?style=for-the-badge&logo=google&logoColor=white" width=200px/>
   </a>
   <a href="https://drive.google.com/drive/u/2/folders/1L5vAjbpaagole_7fz2r2X-6C_B1DV229">
-    <img src="https://img.shields.io/badge/google drive-FDDD14?style=for-the-badge&logo=google-drive&logoColor=white" width=215px/>
+    <img src="https://img.shields.io/badge/google drive-F46036?style=for-the-badge&logo=google-drive&logoColor=white" width=215px/>
   </a>
 </p>
 
