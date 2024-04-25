@@ -1,5 +1,7 @@
-![votlzlogo](https://github.com/Voltz-Corp/.github/assets/117609505/d4d5c73e-1fc0-4169-8d2c-30d4cf157926)
+![votlzlogo](https://github.com/Voltz-Corp/.github/assets/117609505/2fa8bc39-a36b-4a62-ac08-fd6464d590e8)
+
 <br>
+
 # Quem somos?
 ![0d5e8392-678f-4fdf-9a2f-30980d970307](https://github.com/Voltz-Corp/.github/assets/117609505/2a0900d8-27de-4dc8-849f-1e21f58ae4ab)
 
