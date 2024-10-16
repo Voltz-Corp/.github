@@ -5,7 +5,7 @@
 # Quem somos?
 ![0d5e8392-678f-4fdf-9a2f-30980d970307](https://github.com/Voltz-Corp/.github/assets/117609505/2a0900d8-27de-4dc8-849f-1e21f58ae4ab)
 
-Um grupo inovador nascido no coração da <b>CESAR School</b>, em que alunos dos cursos de Design e Ciências da Computação colaboram para transformar desafios reais em soluções tecnológicas inovadoras. O Voltz é o resultado da disciplina de Projetos, onde exercitamos não apenas o aprendizado teórico, mas a aplicação prática de conhecimentos em cenários do mundo real.
+Um grupo inovador nascido no coração da <b>CESAR School</b>, em que alunos dos cursos de Design e Ciência da Computação colaboram para transformar desafios reais em soluções tecnológicas inovadoras. O Voltz é o resultado da disciplina de Projetos, onde exercitamos não apenas o aprendizado teórico, mas a aplicação prática de conhecimentos em cenários do mundo real.
 
 ## Equipe:
 - Ana Clara Gomes da Silva;
