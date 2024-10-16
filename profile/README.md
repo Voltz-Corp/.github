@@ -9,7 +9,6 @@ Um projeto inovador nascido no coração da <b>CESAR School</b>, onde alunos dos
 
 ## Equipe:
 - Ana Clara Gomes da Silva;
-- Arthur Vinícius;
 - Gabriel Albuquerque;
 - Gustavo “yoq” Mourato;
 - Karol Calixto;
@@ -19,17 +18,9 @@ Um projeto inovador nascido no coração da <b>CESAR School</b>, onde alunos dos
 - Sophia “Sopa” Jardelino;
 - Théo Michelis;
 - Vinícius de Andrade Jordão;
-- Vinicius Freitas;
 - Veridiana Almeida.
 
 
-
----
-
-# Nosso cliente:
-<p align=center><img src="https://github.com/Voltz-Corp/.github/assets/117609505/34c6398e-68e8-4b6f-9851-9e601fd4feef" width=600px></p>
-
-A Eceel-Tec é uma empresa familiar fundada em 2003 pelo casal Elisabete Seolin e Claúdio Galindo, especializada em assistência técnica de eletrodomésticos.  Iniciaram como uma pequena empresa, mas logo ganharam seu espaço no mercado, junto com o título de uma das melhores assistências técnicas autorizadas do país!
 
 ---
 
@@ -48,7 +39,23 @@ A Eceel-Tec é uma empresa familiar fundada em 2003 pelo casal Elisabete Seolin 
   </a>
 </p>
 
+<br>
+
+<p align=center>
+  <a href="https://github.com/Voltz-Corp/LibreSubtitles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Voltz-Corp&repo=LibreSubtitles&show_owner=true&theme=dark" width=350px/>
+  </a>
+  <br>
+  <br>
+  <a href="https://sites.google.com/cesar.school/libreflixsubs-voltz/">
+    <img src="https://img.shields.io/badge/google site-37abc8?style=for-the-badge&logo=google&logoColor=white" width=200px/>
+  </a>
+  <a href="https://drive.google.com/drive/folders/1chvS3A1fGJng8PJo-A9bO2Ul_Hk2tftM">
+    <img src="https://img.shields.io/badge/google drive-37abc8?style=for-the-badge&logo=google-drive&logoColor=white" width=215px/>
+  </a>
+</p>
+
 ---
 
 <p align="center"><img src="https://github.com/Taverna-Hub/ForgeSheets/assets/117609505/9287638f-8716-4e62-9989-a40882fbfed6" width="40px"></p>
-<p align="center">Projeto para a disciplina de <strong>Projetos 2</strong> na <strong>CESAR School‎‎</strong></p>
+<p align="center">Grupo para a disciplina de <strong>Projetos</strong> na <strong>CESAR School‎‎</strong></p>
